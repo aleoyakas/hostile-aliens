@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1571323385059" clover="3.2.0">
+  <project timestamp="1571323385059" name="All files">
+    <metrics statements="55" coveredstatements="47" conditionals="8" coveredconditionals="6" methods="14" coveredmethods="12" elements="77" coveredelements="65" complexity="0" loc="55" ncloc="55" packages="1" files="3" classes="3"/>
+    <file name="Ship.js" path="C:\Users\aleo.yakas\sites\hostile-aliens\JavaScript\Ship.js">
+      <metrics statements="20" coveredstatements="20" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="7"/>
+      <line num="5" count="62" type="stmt"/>
+      <line num="6" count="62" type="stmt"/>
+      <line num="7" count="62" type="stmt"/>
+      <line num="8" count="62" type="stmt"/>
+      <line num="12" count="8" type="stmt"/>
+      <line num="16" count="4" type="stmt"/>
+      <line num="20" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="23" count="6" type="stmt"/>
+      <line num="28" count="22" type="stmt"/>
+      <line num="36" count="24" type="stmt"/>
+      <line num="37" count="24" type="stmt"/>
+      <line num="38" count="24" type="stmt"/>
+      <line num="39" count="24" type="stmt"/>
+      <line num="40" count="24" type="stmt"/>
+      <line num="48" count="27" type="stmt"/>
+      <line num="49" count="27" type="stmt"/>
+      <line num="50" count="27" type="stmt"/>
+      <line num="51" count="27" type="stmt"/>
+      <line num="52" count="27" type="stmt"/>
+    </file>
+    <file name="main.js" path="C:\Users\aleo.yakas\sites\hostile-aliens\JavaScript\main.js">
+      <metrics statements="34" coveredstatements="26" conditionals="6" coveredconditionals="4" methods="7" coveredmethods="5"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="10" type="stmt"/>
+      <line num="5" count="10" type="stmt"/>
+      <line num="6" count="23" type="stmt"/>
+      <line num="8" count="10" type="stmt"/>
+      <line num="9" count="26" type="stmt"/>
+      <line num="11" count="10" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="17" count="19" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="5" type="stmt"/>
+      <line num="24" count="5" type="stmt"/>
+      <line num="25" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="5" type="stmt"/>
+      <line num="29" count="5" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="40" count="0" type="stmt"/>
+      <line num="41" count="0" type="stmt"/>
+      <line num="42" count="0" type="stmt"/>
+      <line num="43" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="44" count="0" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="49" count="0" type="stmt"/>
+      <line num="50" count="0" type="stmt"/>
+      <line num="51" count="0" type="stmt"/>
+    </file>
+    <file name="shipData.js" path="C:\Users\aleo.yakas\sites\hostile-aliens\JavaScript\shipData.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

@@ -1,0 +1,26 @@
+{
+  "name": "hostile-aliens",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/aleoyakas/hostile-aliens.git",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0",
+    "sass": "^1.23.0"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.3.31",
+    "jquery": "^3.4.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "setupFiles": [
+      "./JavaScript/testSetup.js"
+    ]
+  }
+}
